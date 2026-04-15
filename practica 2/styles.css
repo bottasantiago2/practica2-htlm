@@ -1,0 +1,19 @@
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500; 
+  font-style: normal;
+  color: white;
+    background-image: url("imagenes/fondomain.jpg");
+}
+.titulo{
+    font-family: "Inter", sans-serif;
+   
+}
+.sub-con{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300; 
+    font-style: normal;
+}
