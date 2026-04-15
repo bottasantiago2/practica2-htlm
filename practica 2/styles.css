@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 
 .inter{
   font-family: "Inter", sans-serif;
@@ -5,15 +9,25 @@
   font-weight: 500; 
   font-style: normal;
   color: white;
-    background-image: url("imagenes/fondomain.jpg");
 }
 .titulo{
-    font-family: "Inter", sans-serif;
-   
+    background-image: linear-gradient(rgba(0, 0, 0, .5) 50%, rgba(0, 0, 0, .5) 100%), url(imagenes/fondomain.jpg);
+    background-position: center center;
+    background-size: cover;
+    min-height: 30rem;
+    font-size: 3rem;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 .sub-con{
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300; 
     font-style: normal;
+    margin: 2rem;
+    width: 50%;
+    
 }
