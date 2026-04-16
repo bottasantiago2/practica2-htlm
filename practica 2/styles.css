@@ -62,7 +62,7 @@ body {
 }
 
 .franja-negra {
-    background-color: black;
+    background-color: black;    
     height: 6rem;        
     width: 100%;        
 } 
@@ -81,3 +81,8 @@ body {
 .btn-lenguaje:hover {
     background-color: #054053;
 }
+
+.resaltado-naranja {
+    background-color: #FF4A24;
+}
+
