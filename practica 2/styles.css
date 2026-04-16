@@ -49,44 +49,41 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
+    border: none;
+    transition: .3s ease all;
 }
 
 .btn-lenguaje a {
     text-decoration: none;
     color: #fff;
-    margin: 1rem;
-
-
+    display: inline-block;
+    padding: 1rem 1rem;
+    width: 100%;
 }
 
+.franja-negra {
+    background-color: black;    
+    height: 6rem;        
+    width: 100%;        
+} 
+
 .btn-atras {
-    background-color: #07779C;
-    border-color: #07779C;
-    border-radius: .5rem;
-    width: 10%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
+    background-color: rgba(0, 0, 0, .1);
+    border: none;
+    font-size: 1.2rem;
 }
 
 .btn-atras a {
     text-decoration: none;
     color: #fff;
-    margin: .5rem;
-    width: 20%;
-
 }
 
-.franja-negra {
-    background-color: black;
-    height: 150px;        
-    width: 100%;        
+.btn-lenguaje:hover {
+    background-color: #054053;
 }
 
 .resaltado-naranja {
-    background-color: #ff9b04;
+    background-color: #FF4A24;
 }
     
 .imgpy {
