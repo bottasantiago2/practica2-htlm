@@ -33,19 +33,29 @@ body {
     text-justify: inter-word;
 }
 
+.panel-botones {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem;
+    
+}
+
 .btn-lenguaje {
     background-color: #07779C;
     border-color: #07779C;
     border-radius: .5rem;
-    width: 10%;
+    width: 20%;
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 .btn-lenguaje a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
     margin: 1rem;
+
 
 }
