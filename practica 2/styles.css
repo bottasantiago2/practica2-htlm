@@ -60,9 +60,33 @@ body {
 
 }
 
+.btn-atras {
+    background-color: #07779C;
+    border-color: #07779C;
+    border-radius: .5rem;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.btn-atras a {
+    text-decoration: none;
+    color: #fff;
+    margin: .5rem;
+    width: 20%;
+
+}
+
 .franja-negra {
     background-color: black;
-    height: 150px;        */
+    height: 150px;        
     width: 100%;        
 }
+
+.resaltado-naranja {
+    background-color: #ff9b04;
+}
+    
 
