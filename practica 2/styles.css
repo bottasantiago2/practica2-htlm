@@ -29,5 +29,18 @@ body {
     font-style: normal;
     margin: 2rem;
     width: 50%;
-    
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.btn-lenguaje {
+    background-color: #07779C;
+    border-color: #07779C;
+    border-radius: .5rem;
+}
+
+.btn-lenguaje a {
+    text-decoration: none;
+    color: #000;
+    margin: 1rem;
 }
