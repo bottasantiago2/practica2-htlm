@@ -127,7 +127,7 @@ body {
     border-style: solid;
     border-color: black;
     margin-left: 2rem;
-    margin-right: 1250px;
+    margin-right: 1230px;
 }
 
 .bordejs {
@@ -143,4 +143,10 @@ body {
     border-left-style: dotted;
     border-color: black;
     margin-left: 2rem;
+}
+
+.tabla {
+    border-color: black;
+    border: 2px;
+    border-style: solid;
 }
