@@ -147,6 +147,14 @@ body {
 
 .tabla {
     border-color: black;
-    border: 2px;
+    border: 3px;
     border-style: solid;
+    font-family: "Inter", sans-serif;
+    margin-left: 2rem;
+    border-color: #000;
+}
+
+.text-table {
+    padding: 10px;
+    text-align: center;
 }
