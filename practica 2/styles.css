@@ -102,6 +102,7 @@ body {
     align-items: center;
     justify-content: end;
     width: 100px;
+    margin-top: 100px;
 }
 
 .imgc {
@@ -111,6 +112,9 @@ body {
     align-items: center;
     justify-content: end;
     width: 100px;
+    transform: scale(1.5);
+    margin-top: 70px;
+    margin-right: 40px;
 }
 
 .imgsql {
