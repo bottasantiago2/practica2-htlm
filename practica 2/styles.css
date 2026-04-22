@@ -83,7 +83,7 @@ body {
 }
 
 .resaltado-naranja {
-    background-color: #FF4A24;
+    background-color: #338ee3;
 }
     
 .imgpy {
@@ -120,4 +120,27 @@ body {
     align-items: center;
     justify-content: end;
     width: 100px;
+}
+
+.borde {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 2rem;
+    margin-right: 1250px;
+}
+
+.bordejs {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 2rem;
+    margin-right: 1200px;
+}
+
+.bordetexto {
+    border-width : 3px;
+    border-left-style: dotted;
+    border-color: black;
+    margin-left: 2rem;
 }
